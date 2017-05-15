@@ -9,6 +9,8 @@
 Ce rendre dans le dossier <b>docker/image</b><br/>
 Lancer la commande suivante : <code>docker build -t local/drupal8 .</code><br />
 Une fois l'image docker créer retourner dans le dossier docker <br/>
+### ATTENTION ###
+Ne surtout pas oublier de changer le docker-compose avec le bon nom de dossier avant de lancer les containers.<br />
 Lancer la commande <code> docker-compose up -d </code> 
 Lancer un navigateur et ce rendre sur localhost pour procéder à l'installation de drupal.<br/>
 Enjoy.
