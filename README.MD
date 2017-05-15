@@ -3,7 +3,7 @@
 * Docker : version 17.03.0-ce, build 60ccb22
 * Docker compose : version 1.11.2, build dfed245
 * Composer : version 1.4.1
-Git
+* Git
 
 #### Pour installer la première fois le projet ####
 Ce rendre dans le dossier <b>docker/image</b><br/>
