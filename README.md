@@ -1,1 +1,0 @@
-Projet d'une stack docker et drupal 8.3.2
