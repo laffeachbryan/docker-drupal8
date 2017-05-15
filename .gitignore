@@ -2,7 +2,7 @@
 docker/data
 
 # Suppression des fichiers de drupal à ne pas commit et le dossier vendor#
-#vendor
-#composer.lock
+vendor
+composer.lock
 
 .idea
