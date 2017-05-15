@@ -2,5 +2,5 @@
 docker/data
 
 # Suppression des fichiers de drupal à ne pas commit. #
-
+vendor
 .idea
