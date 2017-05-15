@@ -11,6 +11,7 @@ Pour ce brancher à git faire la commande suivante :
 Ce rendre dans le dossier <b>docker/image</b><br/>
 Lancer la commande suivante : <code>docker build -t local/drupal8 .</code><br />
 Une fois l'image docker créer retourner dans le dossier docker <br/>
+Lancer la commande <code>composer install</code> pour initialiser le projet. 
 ### ATTENTION ###
 Ne surtout pas oublier de changer le docker-compose avec le bon nom de dossier avant de lancer les containers.<br />
 Lancer la commande <code> docker-compose up -d </code> 
