@@ -4,7 +4,9 @@
 * Docker compose : version 1.11.2, build dfed245
 * Composer : version 1.4.1
 * Git
-
+### CONFIG GIT ###
+Pour ce brancher à git faire la commande suivante : 
+<code>git remote add origin https://github.com/laffeachbryan/docker-drupal8</code>
 #### Pour installer la première fois le projet ####
 Ce rendre dans le dossier <b>docker/image</b><br/>
 Lancer la commande suivante : <code>docker build -t local/drupal8 .</code><br />
