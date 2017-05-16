@@ -1,8 +1,9 @@
+
 # Ou est stocker la DBB #
 docker/data
 
 # Suppression des fichiers de drupal à ne pas commit et le dossier vendor#
-vendor
-composer.lock
+web/vendor
+web/composer.lock
 
 .idea
