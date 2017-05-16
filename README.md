@@ -14,6 +14,6 @@ Une fois l'image docker créer retourner dans le dossier docker <br/>
 ### ATTENTION ###
 Ne surtout pas oublier de changer le docker-compose avec le bon nom de dossier avant de lancer les containers.<br />
 Lancer la commande <code> docker-compose up -d </code><br />
-Allez dans le dossier web pour lancer un composer update qui aura pour but d'installer des modules par défaut de drupal.<br />
+Allez dans le dossier web pour lancer <code> composer update </code> qui aura pour but d'installer des modules par défaut de drupal.<br />
 Lancer un navigateur et ce rendre sur localhost pour procéder à l'installation de drupal.<br/>
 Enjoy.
