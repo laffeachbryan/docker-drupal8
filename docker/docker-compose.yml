@@ -3,7 +3,7 @@ services:
   web:
     image: local/drupal8
     volumes: 
-      - ~/drupal/drupal8:/var/www/html
+      - ~/drupal/drupal8/web:/var/www/html
       - ~/drupal/drupal8/docker/conf/apache2/apache2.conf:/etc/apache2/apache2.conf
       - ~/drupal/drupal8/docker/conf/php/php.ini:/usr/local/etc/php/conf.d/php.ini
     ports:
